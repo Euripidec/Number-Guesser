@@ -1,0 +1,1 @@
+This project is one of my first on practiceing javascript. Please note the Script.js file is mine the rest are files provided to me in order to complete the project
